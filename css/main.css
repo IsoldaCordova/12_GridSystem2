@@ -1,0 +1,14 @@
+
+.blue{
+	background: lightblue;
+	margin-left: -120px;
+	margin-top: 20px;
+	border-bottom: 1px solid red;
+}
+.line{
+	display: inline-block;
+}
+h1{
+	margin-left: 480px;
+	margin-top: 20px;
+}
